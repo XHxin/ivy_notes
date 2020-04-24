@@ -74,6 +74,14 @@
 
     ![image-20200424221217526](C:\Users\13019\AppData\Roaming\Typora\typora-user-images\image-20200424221217526.png)
 
+  - git pull命令执行之后可能会出现如下界面，这个时候输入冒号+q+!，然后点击确认就可以了
+
+    ![image-20200424222324222](C:\Users\13019\AppData\Roaming\Typora\typora-user-images\image-20200424222324222.png)
+
+    如果显示“--插入--”，就先按一下“Esc”建，再输入“:q!”
+
+    ![image-20200424222433547](C:\Users\13019\AppData\Roaming\Typora\typora-user-images\image-20200424222433547.png)
+
 - git push
 
   - ![image-20200424221503255](C:\Users\13019\AppData\Roaming\Typora\typora-user-images\image-20200424221503255.png)
