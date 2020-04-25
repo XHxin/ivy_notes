@@ -2,7 +2,7 @@
 
 
 
-## 拉取项目
+## 拉取项目 
 
 1. 拿到一个项目的Git地址，例如https://github.com/XHxin/demo-spring-cloud.git
 
